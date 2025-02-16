@@ -19,4 +19,7 @@ chmod +x configure.sh
 chmod +x autogen.sh
 chmod +x start.sh
 CXX=clang++ CC=clang build.sh
+nano config.json to do your changes
+start mining by typing :
+~/CCminer-ARM/start.sh
 
