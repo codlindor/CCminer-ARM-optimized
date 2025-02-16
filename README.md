@@ -17,5 +17,6 @@ cd CCminer-ARM
 chmod +x build.sh
 chmod +x configure.sh
 chmod +x autogen.sh
+chmod +x start.sh
 CXX=clang++ CC=clang build.sh
 
