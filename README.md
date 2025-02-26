@@ -7,6 +7,9 @@ Git and Build Process:
 sudo apt update
 ```
 ```
+sudo apt upgrade
+```
+```
 sudo apt install libcurl4-openssl-dev libssl-dev libjansson-dev automake autotools-dev build-essential
 ```
 ```
